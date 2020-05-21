@@ -81,7 +81,7 @@ int main()
 
 	FILE fpr2;
 
-	fpr1 = fopen("C:\>myhw.txt", "r");
+	fpr1 = fopen("myhw.txt", "r");
 
 	fpr2=fopen("answer-hw3.txt","w");
 
